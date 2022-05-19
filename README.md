@@ -1,7 +1,7 @@
 # About Me
 
 
-#My Things
+# My Things
 NBA
 Basketball
 Workout
