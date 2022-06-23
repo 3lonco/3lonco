@@ -16,11 +16,11 @@ M.A in, Maebashi Institute of Technology, Japan, 2019
 Visiting Scholar in Biology, Santa Clara University, The United States of America, 2018
 <br>
 
-# Work Experience
-_Manufacturing Engineer, Taiyo Yuden, 2018-2021_
-<br>
-_Robotics Engneer, Honda R&D Co.,Ltd. , 2021-2022_
-
+<!-- 
+Work Experience\
+Manufacturing Engineer, Taiyo Yuden, 2018-2021\
+Robotics Engneer, Honda R&D Co.,Ltd. , 2021-2022\
+)-->
 # Contribution
 
 # My Things
