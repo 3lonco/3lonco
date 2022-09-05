@@ -6,8 +6,9 @@
 # Qualifications
 TOEIC L&R 900, 2018
 <br>
-Qualitity Control Grade 2(QC検定2級), 2018 
+Qualitity Control Grade 2(QC検定2級), 2018
 <br>
+Eiken Grade 1
 <!--  
 # EDUCATION
 B.A in System, Maebashi Institute of Technology, Japan 2016
